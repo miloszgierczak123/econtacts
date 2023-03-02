@@ -1,0 +1,11 @@
+C:\Users\robac\source\repos\EContact\EContact\bin\Debug\EContact.exe.config
+C:\Users\robac\source\repos\EContact\EContact\bin\Debug\EContact.exe
+C:\Users\robac\source\repos\EContact\EContact\bin\Debug\EContact.pdb
+C:\Users\robac\source\repos\EContact\EContact\obj\Debug\EContact.csproj.AssemblyReference.cache
+C:\Users\robac\source\repos\EContact\EContact\obj\Debug\EContact.csproj.SuggestedBindingRedirects.cache
+C:\Users\robac\source\repos\EContact\EContact\obj\Debug\EContact.Econtact.resources
+C:\Users\robac\source\repos\EContact\EContact\obj\Debug\EContact.Properties.Resources.resources
+C:\Users\robac\source\repos\EContact\EContact\obj\Debug\EContact.csproj.GenerateResource.cache
+C:\Users\robac\source\repos\EContact\EContact\obj\Debug\EContact.csproj.CoreCompileInputs.cache
+C:\Users\robac\source\repos\EContact\EContact\obj\Debug\EContact.exe
+C:\Users\robac\source\repos\EContact\EContact\obj\Debug\EContact.pdb
